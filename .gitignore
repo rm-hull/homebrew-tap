@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Go
+*.test
+*.out

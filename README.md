@@ -19,3 +19,4 @@ brew install git-commit-summary
 ## Included Formulae
 
 * [git-commit-summary](https://github.com/rm-hull/git-commit-summary) - Generate a commit summary using Gemini or OpenAI.
+* [pioneer-rec](https://github.com/rm-hull/pioneer-rec) - Recover video recordings from failed Pioneer DVR and Sony HXD recorder hard drives.

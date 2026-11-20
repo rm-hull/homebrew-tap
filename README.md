@@ -20,3 +20,5 @@ brew install git-commit-summary
 
 * [git-commit-summary](https://github.com/rm-hull/git-commit-summary) - Generate a commit summary using Gemini or OpenAI.
 * [pioneer-rec](https://github.com/rm-hull/pioneer-rec) - Recover video recordings from failed Pioneer DVR and Sony HXD recorder hard drives.
+* [teams-cli](https://github.com/rm-hull/teams-cli) - A tool for reading and searching Microsoft Teams chats through the Microsoft Graph API, predominantly designed for agentic access.
+
